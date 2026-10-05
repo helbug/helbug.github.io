@@ -1,0 +1,13 @@
+.ascii-logo {
+  font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'Courier New', monospace;
+  font-size: clamp(9px, 1.2vw, 15px);
+  line-height: 1.15;
+  letter-spacing: 0;
+  white-space: pre;
+  color: #fffde7;
+  background-color: transparent;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  user-select: none;
+}
